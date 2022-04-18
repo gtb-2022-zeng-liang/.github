@@ -9,4 +9,7 @@ Apart from coding, I am also really into Amercian TV Series.
 This pic is a poster of one of my most fav drama called Better call Saul. You will love it once you give it a shot.
 
 Lastly, a personal pictrue (took by my friend during the US trip)
+
+
+
 <img src="assets/sf.png" alt="sf" width="30%" />
